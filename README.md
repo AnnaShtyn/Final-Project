@@ -75,6 +75,8 @@ For Resort Hotel, the average length of stay is **4.14 days**, compared to **2.9
 
 City Hotel's total revenue is roughly **25%** higher (€14,369K vs. €11,518K). Since the average revenue per booking is lower at City Hotel, the difference is explained by a significantly higher number of actual check-ins — this is confirmed by the check-in dynamics chart.
 
+![Dashboard](https://drive.google.com/thumbnail?id=1mPTL4M-Y4XGCQIn2YzWe6_uv7G30s6Wj&sz=w1200)
+
 **4. Are there seasonality trends in check-in dynamics? Is there sustained growth over time?**
 
 Seasonality is clearly pronounced, especially for City Hotel: demand rises sharply from February to May, remains high until around October, and then drops sharply. This is likely related to the most favorable travel period in Portugal — the "velvet season" (September–October). The dynamics also show steady growth in the number of bookings at City Hotel throughout the study period, while fluctuations at Resort Hotel are minor — possibly because City Hotel is relatively new and rapidly gaining popularity, while Resort Hotel already has a stable audience.
