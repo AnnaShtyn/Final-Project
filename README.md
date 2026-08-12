@@ -75,7 +75,7 @@ For Resort Hotel, the average length of stay is **4.14 days**, compared to **2.9
 
 City Hotel's total revenue is roughly **25%** higher (€14,369K vs. €11,518K). Since the average revenue per booking is lower at City Hotel, the difference is explained by a significantly higher number of actual check-ins — this is confirmed by the check-in dynamics chart.
 
-![Dashboard](https://drive.google.com/thumbnail?id=1mPTL4M-Y4XGCQIn2YzWe6_uv7G30s6Wj&sz=w1200)
+<img src="https://drive.google.com/thumbnail?id=1mPTL4M-Y4XGCQIn2YzWe6_uv7G30s6Wj&sz=w1200" width="800">
 
 **4. Are there seasonality trends in check-in dynamics? Is there sustained growth over time?**
 
@@ -90,6 +90,8 @@ At City Hotel, ADR dynamics align with check-in dynamics, with prices fluctuatin
 The ADR distribution by room type (violin plot with quartiles) shows that Resort Hotel has a much wider price spread, although average prices are lower (median ~€60–160). At City Hotel, prices are on average higher — median in the range of ~€90–240. In both hotels, ADR increases more or less steadily with room type from A to G.
 
 ### Block 2. Hotel Demand
+
+![Dashboard](https://drive.google.com/thumbnail?id=1o0v4UDSzthCCPbUDtjl-XXX9EB6Wj4Mo&sz=w1200)
 
 **1. Which room types are most popular among guests?**
 
