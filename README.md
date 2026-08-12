@@ -11,8 +11,7 @@ The project is dedicated to a comparative analysis of two hotels — a resort ho
 
 ## Dataset
 
-- Original dataset: **119,000+** booking records, **31** columns.
-- The analysis uses a cleaned dataset (181 rows with missing values and negative prices were removed), supplemented with additional calculated columns — **49 columns** in total.
+- Cleaned dataset: **119,000+** booking records, **49** columns.
 - Hotels: Resort Hotel (Algarve, Atlantic coast) and City Hotel (Lisbon), roughly 270 km apart.
 - Users' personal data has been removed from the dataset.
 
