@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Analysis: Demand and Financial Performance
+# 🏨 Resort vs City Hotel: Revenue and Demand Analysis
 
 An analytical project comparing two types of hotels in Portugal — **Resort Hotel** (Algarve) and **City Hotel** (Lisbon) — in terms of financial performance and demand, based on real booking data.
 
